@@ -5,7 +5,7 @@ html, body {
     padding: 0;
     margin: 0;
     font-family: Exo;
-    background: linear-gradient(#f3f1f1, #b8b5b5);
+    background: linear-gradient(#327a56, #fec31e);
     background-repeat: no-repeat;
     height: 100%;
     width: 100%;
@@ -68,7 +68,7 @@ html, body {
 
 .user-number {
     width: 25px;
-    border: 2px solid rgb(71, 69, 69);
+    border: 2px solid #25262a;
     margin-left: 8px;
     margin-right: 8px;
     border-radius: 4px;
@@ -81,7 +81,7 @@ html, body {
     background-color: cornsilk;
     border-radius: 4px;
     font-family: exo;
-    border: 2px solid rgb(71, 69, 69);
+    border: 2px solid #25262a;
     cursor: pointer;
  }
 
@@ -101,7 +101,7 @@ button {
     background-color: cornsilk;
     border-radius: 4px;
     font-family: exo;
-    border: 2px solid rgb(71, 69, 69);
+    border: 2px solid #25262a;
     cursor: pointer;
 }
 
@@ -124,7 +124,7 @@ button {
     width: 600px;
     display: flex;
     flex-direction: column;
-    border: 15px solid rgb(150, 142, 142);
+    border: 15px solid #25262a;
     border-radius: 14px;
 }
 
